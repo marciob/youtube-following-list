@@ -1,4 +1,4 @@
-## YouTube Subscription Fetcher
+## YouTube Following Fetcher
 
 This script fetches a list of YouTube channels you are subscribed to using the YouTube Data API v3.
 
